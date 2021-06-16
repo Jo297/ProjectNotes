@@ -1,8 +1,13 @@
 21.6.5
-completed nav bar
-edit custom icons
-uploaded files
+ - completed nav bar
+ - edit custom icons
+ - uploaded files
 
 21.6.14
-worked on task modal 
-adding and loading tasks - localStorage
+ - worked on task modal 
+ - adding and loading tasks - localStorage
+
+21.6.16
+ -created cards for tasks
+ -added custom modals with css for add and update function
+ -debugged alignment for card ui
