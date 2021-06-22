@@ -11,3 +11,20 @@
  -created cards for tasks
  -added custom modals with css for add and update function
  -debugged alignment for card ui
+ 
+21.6.18 - 21.6.22
+ - added timer with start, reset/start, stop/reset
+ - setInterval, cleanup function for useEffect
+ 
+21.6.23
+ - changed time format to relative time
+   - changed display from seconds to minutes using switch case
+   - debugged singular/plural forms for string. fixed with ternary operator
+ - uploaded files
+   
+
+
+
+
+
+
