@@ -22,7 +22,8 @@
    - debugged singular/plural forms for string. fixed with ternary operator
  - uploaded files
    
-
+21.6.24
+ - connected timer to localstorage(add,retrieve)
 
 
 
