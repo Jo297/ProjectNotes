@@ -24,7 +24,16 @@
    
 21.6.24
  - connected timer to localstorage(add,retrieve)
-
+ 
+21.6.25
+ - add css for timer
+   - removed start/stop (to use only when debugging)
+ - tested reusable modals
+ 
+21.6.29
+ - Added export/import feature 
+   - debugged import function to avoid duplicate entries
+   - debugged export function to remove backslashes in file
 
 
 
