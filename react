@@ -35,6 +35,35 @@
    - debugged import function to avoid duplicate entries
    - debugged export function to remove backslashes in file
 
+21.6.30
+ - added css for import/export buttons
+ 
+21.7.3
+ - changed css
+ - worked on media queries to make app responsive
+   - changed card container grid
+   - added another div between main and container to avoid clashing of css 
+ 
+21.7.6
+ - changed modals look. 
+   - responsive
+   - added tabIndex
+   
+21.7.7
+ - worked on tabIndex to cycle inside Modal component
+ - changed color/design of cards
+   
+21.7.8
+ - added dropdown menu for cards
+   - worked on useRefs
+     - forwardRefs from other file
+     
+
+
+
+
+
+
 
 
 
