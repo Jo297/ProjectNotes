@@ -58,10 +58,20 @@
    - worked on useRefs
      - forwardRefs from other file
      
+21.7.9
+ -connect edit/delete functions to dropdown
+ -debug dropdown position while scrolling
 
+21.7.16 
+ -remap project folder structure
 
+21.7.17
+ -changed topbar design
+ -increased time font 
+  -separate button to reset
 
-
+21.7.24
+ -add auto-scroll when dropdown not fully visible
 
 
 
